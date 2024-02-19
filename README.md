@@ -2,7 +2,7 @@ Olá 👋, me chamo Ennio Bernardo
 Tenho interesse em Matemática, Estatística e Analise de Dados
 🔭 Atualmente trabalhando com projetos de analise e visualização de dados
 
-🌱 Tenho estudado sobre Python, Machine Learn, Azure e Javascript
+🌱 Tenho estudado sobre Python, Machine Learn e Azure
 
 Estou procurando recolocação no mercado de trabalho
 
@@ -13,7 +13,7 @@ Estou procurando recolocação no mercado de trabalho
 📄 Minhas experiências profissionais https://www.linkedin.com/in/ennio-bernardo/
 
 Connect with me:
-https://www.linkedin.com/in/ennio-bernardo-221657b3/
+https://www.linkedin.com/in/ennio-bernardo/
 
 Languages and Tools:
 mssql pandas python 
